@@ -1,5 +1,6 @@
 ### Hi there 👋, I am walid
-#### web developer 
+#### programmer
+
 ![web developer ](https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg)
 
 hey i am walid .. i am learining front end web development..i love programming.. I make projects with whatever I learn.This is called speed learning.
